@@ -37,5 +37,6 @@ module.exports = {
 		'marvels-avengers-assemble': 'marvel-s-avengers-assemble',
 		'marvels-daredevil': 'marvel-s-daredevil',
 		'marvels-guardians-of-the-galaxy': 'marvel-s-guardians-of-the-galaxy'
+		'teen-wolf': 'teen-wolf-2011'
 	}
 };
